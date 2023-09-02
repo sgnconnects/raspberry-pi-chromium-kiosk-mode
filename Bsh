@@ -1,0 +1,2 @@
+# don't sleep the screen
+xserver-command=X -s 0 dpms
